@@ -3,8 +3,8 @@
 Made for fun to learn c
 up to date as of May 3rd, 2024
 
-statistics used
-USAF Budget: 916 Billion.<br>
+statistics used<br>
+United States Armed Forces Budget: 916 Billion.<br>
 PLA (China) Budget: 296 Billion.<br>
 Armed forces of the Russian Federation Budget: 109 Billion.<br>
 Indian Armed Forces Budget: 86.3 Billion.<br>
