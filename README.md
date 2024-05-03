@@ -30,3 +30,6 @@ How to build
 1.cd into the root of the directory
 2.run make
 3.it works.
+
+Known Bugs<br>
+Sometimes it just says 0 idk just you can fix it or smth
