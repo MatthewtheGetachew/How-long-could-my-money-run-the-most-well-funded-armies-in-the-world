@@ -1,4 +1,19 @@
 # How-long-could-my-money-run-the-most-well-funded-armies-in-the-world
+
+Made for fun to learn c
+up to date as of May 3rd, 2024
+
+statistics used
+USAF Budget: 916 Billion.
+PLA (China) Budget: 296 Billion.
+Armed forces of the Russian Federation Budget: 109 Billion.
+Indian Armed Forces Budget: 86.3 Billion.
+Saudi Arabian Armed Forces Budget: 75.8 Billion.
+British Armed Forces Budget: 74.9 Billion.
+
+Source:
+https://en.wikipedia.org/wiki/List_of_countries_with_highest_military_expenditures
+
 How to install this project
 1.Install the github project and put it in a folder
 2.using command line cd into the directorys output folder
