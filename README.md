@@ -4,12 +4,12 @@ Made for fun to learn c
 up to date as of May 3rd, 2024
 
 statistics used
-USAF Budget: 916 Billion.
-PLA (China) Budget: 296 Billion.
-Armed forces of the Russian Federation Budget: 109 Billion.
-Indian Armed Forces Budget: 86.3 Billion.
-Saudi Arabian Armed Forces Budget: 75.8 Billion.
-British Armed Forces Budget: 74.9 Billion.
+USAF Budget: 916 Billion.<br>
+PLA (China) Budget: 296 Billion.<br>
+Armed forces of the Russian Federation Budget: 109 Billion.<br>
+Indian Armed Forces Budget: 86.3 Billion.<br>
+Saudi Arabian Armed Forces Budget: 75.8 Billion.<br>
+British Armed Forces Budget: 74.9 Billion.<br>
 
 Source:
 https://en.wikipedia.org/wiki/List_of_countries_with_highest_military_expenditures
