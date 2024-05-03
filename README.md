@@ -14,22 +14,22 @@ British Armed Forces Budget: 74.9 Billion.<br>
 Source:
 https://en.wikipedia.org/wiki/List_of_countries_with_highest_military_expenditures
 
-How to install this project
-1.Install the github project and put it in a folder
-2.using command line cd into the directorys output folder
-3.run this command
+How to install this project:<br>
+1.Install the github project and put it in a folder<br>
+2.using command line cd into the directorys output folder<br>
+3.run this command<br>
 ```
 main
 ```
-and it should ask you about how many USD you want to calculate.
-4.It works I think
-5.???
-6.Profit
+and it should ask you about how many USD you want to calculate.<br>
+4.It works I think<br>
+5.???<br>
+6.Profit<br>
 
-How to build
-1.cd into the root of the directory
-2.run make
-3.it works.
+How to build<br>
+1.cd into the root of the directory<br>
+2.run make<br>
+3.it works.<br>
 
 Known Bugs<br>
 Sometimes it just says 0 idk just you can fix it or smth
